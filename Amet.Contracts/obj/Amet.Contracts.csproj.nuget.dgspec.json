@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet\\Amet.csproj": {}
+    "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet.Contracts\\Amet.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet\\Amet.csproj": {
+    "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet.Contracts\\Amet.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet\\Amet.csproj",
-        "projectName": "Amet",
-        "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet\\Amet.csproj",
+        "projectUniqueName": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet.Contracts\\Amet.Contracts.csproj",
+        "projectName": "Amet.Contracts",
+        "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet.Contracts\\Amet.Contracts.csproj",
         "packagesPath": "C:\\Users\\renyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet\\obj\\",
+        "outputPath": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.18, 3.1.18]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
