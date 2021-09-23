@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lANalacymqSEzkEbqWSvBHF4PeeuM4FStwOXmxIl7X75C60Af9Ikn/8XAytHA+y42vkWQh9Th2UGApya/M3jCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renyg\\Documents\\Repos\\Amet\\Amet\\Amet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renyg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
